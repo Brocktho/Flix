@@ -23,9 +23,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
 <img src="https://i.gyazo.com/da794bc8098278983ea221b5ab56477f.gif" width=250><br>
+<img src="https://i.gyazo.com/26660c18a9978c6b1ff4bb97d66cdf66.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
+Challenges were having pods not work correctly so i had to reinstall ruby with some help from other sources, and my gif not working because the content limit was reached for the gif, how do i showcase an app in less than 5 seconds? cause that gif is not very long, and i hardly am able to show that it can operate in portrait, and landscape. It can also work on other devices, but the gif won't load so I guess I lose points?
