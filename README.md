@@ -30,4 +30,5 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
-Challenges were having pods not work correctly so i had to reinstall ruby with some help from other sources, and my gif not working because the content limit was reached for the gif, how do i showcase an app in less than 5 seconds? cause that gif is not very long, and i hardly am able to show that it can operate in portrait, and landscape. It can also work on other devices, but the gif won't load so I guess I lose points?
+Challenges were having pods not work correctly so i had to reinstall ruby with some help from other sources, and my gif not working because the content limit was reached for the gif, re-recorded it faster, don't feel like this gif really does much or at least won't for future apps cause you can only show at most 2 seconds
+
