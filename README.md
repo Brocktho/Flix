@@ -31,5 +31,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### Notes
 Describe any challenges encountered while building the app.
-Challenges were having pods not work correctly so i had to reinstall ruby with some help from other sources, and my gif not working because the content limit was reached for the gif, re-recorded it faster, don't feel like this gif really does much or at least won't for future apps cause you can only show at most 2 seconds
+Challenges were having pods not work correctly so i had to reinstall ruby with some help from other sources, and my gif not working because the content limit was reached for the gif, re-recorded it faster, don't feel like this gif really does much or at least won't for future apps cause you can only show at most 2 seconds. I attached a screenshot of the app running on my personal device. It's the last picture if it wasn't clear.
+
 
