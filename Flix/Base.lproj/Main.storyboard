@@ -341,10 +341,10 @@
                     </view>
                     <navigationItem key="navigationItem" id="QjU-LR-g1C"/>
                     <connections>
-                        <outlet property="backdropImage" destination="6zy-dl-6q1" id="u5f-vy-WTw"/>
-                        <outlet property="movieInfo" destination="eDx-f2-fFe" id="zuP-nc-vpy"/>
-                        <outlet property="moviePoster" destination="G3T-8l-uNg" id="Fbb-b2-qPH"/>
-                        <outlet property="movieTitle" destination="Gti-Kk-2zo" id="bbh-Ip-9Qj"/>
+                        <outlet property="backdropImage" destination="6zy-dl-6q1" id="6cP-8n-Vap"/>
+                        <outlet property="movieInfo" destination="eDx-f2-fFe" id="aeM-1x-GyB"/>
+                        <outlet property="moviePoster" destination="G3T-8l-uNg" id="oP4-JC-1hQ"/>
+                        <outlet property="movieTitle" destination="Gti-Kk-2zo" id="y1W-Pa-IEc"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="AEF-JF-qQL" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>

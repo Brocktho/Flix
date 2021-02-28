@@ -23,6 +23,7 @@
 		E5A2F34925EB3B8C00F6DB19 /* MovieGridViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5A2F34825EB3B8C00F6DB19 /* MovieGridViewController.swift */; };
 		E5A2F34E25EB3FD000F6DB19 /* MovieCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5A2F34D25EB3FD000F6DB19 /* MovieCollectionViewCell.swift */; };
 		E5A2F35325EB4C0E00F6DB19 /* HeroInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5A2F35225EB4C0E00F6DB19 /* HeroInfoViewController.swift */; };
+		E5A2F35825EB505700F6DB19 /* HeroInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5A2F35725EB505700F6DB19 /* HeroInfoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,6 +71,7 @@
 		E5A2F34825EB3B8C00F6DB19 /* MovieGridViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieGridViewController.swift; sourceTree = "<group>"; };
 		E5A2F34D25EB3FD000F6DB19 /* MovieCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCollectionViewCell.swift; sourceTree = "<group>"; };
 		E5A2F35225EB4C0E00F6DB19 /* HeroInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroInfoViewController.swift; sourceTree = "<group>"; };
+		E5A2F35725EB505700F6DB19 /* HeroInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroInfoViewController.swift; sourceTree = "<group>"; };
 		F9ABD21152D789247E100910 /* Pods-Flix-FlixUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Flix-FlixUITests.release.xcconfig"; path = "Target Support Files/Pods-Flix-FlixUITests/Pods-Flix-FlixUITests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -140,6 +142,7 @@
 				E577A27025E193ED00354935 /* SceneDelegate.swift */,
 				E577A27425E193ED00354935 /* Main.storyboard */,
 				E5A2F35225EB4C0E00F6DB19 /* HeroInfoViewController.swift */,
+				E5A2F35725EB505700F6DB19 /* HeroInfoViewController.swift */,
 				E5A2F34825EB3B8C00F6DB19 /* MovieGridViewController.swift */,
 				E5A2F34325EB29C700F6DB19 /* MovieInfoViewController.swift */,
 				E577A27725E193EE00354935 /* Assets.xcassets */,
@@ -429,6 +432,7 @@
 				E5A2F34E25EB3FD000F6DB19 /* MovieCollectionViewCell.swift in Sources */,
 				E577A2A525E1985200354935 /* MovieViewController.swift in Sources */,
 				E5A2F34925EB3B8C00F6DB19 /* MovieGridViewController.swift in Sources */,
+				E5A2F35825EB505700F6DB19 /* HeroInfoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
